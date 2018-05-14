@@ -1,9 +1,0 @@
-Converting pixels to grayscale:				      |	P2
-0							      |
-1							      |	Program terminated when maximum step limit -1 reached.
-2							      <
-34							      <
-5							      <
-67							      <
-89							      <
-Finished.						      <
